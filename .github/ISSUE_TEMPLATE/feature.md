@@ -1,6 +1,6 @@
 ---
 name: Feature
-about: A new feature template
+about: A new feature request
 title: ''
 labels: feature
 assignees: ''
@@ -8,10 +8,13 @@ assignees: ''
 ---
 
 ### Description
-TBD
 
-### Code
-TBD
+N/A
+
+### Related Code
+
+N/A
 
 ### Design Preview(s)
-TBD
+
+N/A

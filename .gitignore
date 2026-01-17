@@ -5,10 +5,6 @@ vendor/
 bin/
 docs/
 
-# Specific Files
-thunderEnvironment.json
-thunderActivity.json
-
 # File Types
 *.ini
 *.gch
